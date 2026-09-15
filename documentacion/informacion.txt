@@ -1,0 +1,15 @@
+TALLER DE GITHUB
+
+Nombre: Joshua Larez
+Grado: 11-3
+
+Proyecto:
+Programa para calcular las notas de un estudiante.
+
+Descripción:
+El programa permite ingresar tres notas y calcula el promedio, la nota mayor, la nota menor y el resultado final.
+
+El estudiante aprueba si obtiene un promedio igual o superior a 3.0.
+
+Lenguaje utilizado:
+Python
